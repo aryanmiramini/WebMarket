@@ -1,0 +1,39 @@
+﻿@using Webmarket.Models
+@model Category
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>ایجاد دسته</h2>
+            <hr />
+        </div>
+       @* <div asp-validation-summary="All" class="text-danger"></div>*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger" ></span>
+        </div>
+           <div class="mb-3">
+            <label asp-for="DisplayOrder"></label>
+            <input asp-for="DisplayOrder" class="form-control" />
+               <span asp-validation-for="DisplayOrder" class="text-danger" ></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">
+            ایجاد دسته
+        </button>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:170px">
+            بازگشت به لیست
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+            Severity	Code	Description	Project	Path	File	Line	Source	Suppression State
+Error	CS0246	The type or namespace name 'Category' could not be found (are you missing a using directive or an assembly reference?)	WebMarket.Web	C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator	C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\Microsoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Areas_Admin_Views_Category_Edit_cshtml.g.cs	294	IntelliSense	Active
