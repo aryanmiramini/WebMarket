@@ -293,3 +293,15 @@ C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Utility\bin\Deb
 C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
 C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\refs\WindowsBase.dll
 C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.deps.json
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.dll
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\ref\WebMarket.Utility.dll
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.pdb
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.csproj.AssemblyReference.cache
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.AssemblyInfoInputs.cache
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.AssemblyInfo.cs
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.csproj.CoreCompileInputs.cache
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.dll
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\ref\WebMarket.Utility.dll
+C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.pdb

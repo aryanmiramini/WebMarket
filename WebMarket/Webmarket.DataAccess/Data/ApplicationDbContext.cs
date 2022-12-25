@@ -5,7 +5,7 @@ using WebMarket.Models;
 
 namespace WebMarket.DataAccess
 {
-    public class ApplicationDbContext :IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext
 
     {
         public ApplicationDbContext(DbContextOptions options) : base(options)

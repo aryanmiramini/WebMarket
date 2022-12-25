@@ -11,5 +11,6 @@ namespace WebMarket.DataAccess.Services.Interface
         public void Remove(CoverType entity);
         public void RemoveRange(IEnumerable<CoverType> entities);
         public void Update(CoverType coverType);
+        
     }
 }

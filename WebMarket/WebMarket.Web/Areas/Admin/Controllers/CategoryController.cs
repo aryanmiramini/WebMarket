@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Webmarket.Models;
 using WebMarket.DataAccess.Services.Interface;
 
 namespace WebMarket.Web.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin")]
     public class CategoryController : Controller
     {
         private readonly ICategoryService _categoryService;

@@ -15,12 +15,14 @@ namespace Webmarket.DataAccess.Services
         public void Add(CoverType entity)
         {
             _db.CoverTypes.Add(entity);
+            _db.SaveChanges();
+
         }
-      
+
         public IEnumerable<CoverType> GetAll()
         {
             IEnumerable<CoverType> query = _db.CoverTypes;
-            return query.ToList();
+            return query;
 
         }
         public CoverType GetFirstOrDefault(Expression<Func<CoverType, bool>> filter)
@@ -32,10 +34,14 @@ namespace Webmarket.DataAccess.Services
         public void Remove(CoverType entity)
         {
             _db.CoverTypes.Remove(entity);
+            _db.SaveChanges();
+
         }
         public void RemoveRange(IEnumerable<CoverType> entities)
         {
             _db.CoverTypes.RemoveRange(entities);
+            _db.SaveChanges();
+
         }
         public void Save()
         {
@@ -45,6 +51,8 @@ namespace Webmarket.DataAccess.Services
         public void Update(CoverType entity)
         {
             _db.Update(entity);
+                        _db.SaveChanges();
+
         }
     }
 

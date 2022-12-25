@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db574212-9c27-4626-bd4f-93f0959d6e78": {
+      "ProjectGuid": "db574212-9c27-4626-bd4f-93f0959d6e78",
+      "DisplayName": "WebMarket.Web",
+      "ColorIndex": 0
+    },
+    "9e5c4270-b6c9-4a1b-b312-86fe972cd932": {
+      "ProjectGuid": "9e5c4270-b6c9-4a1b-b312-86fe972cd932",
+      "DisplayName": "WebMarket.Utility",
+      "ColorIndex": 1
+    },
+    "8550f78a-b099-4cc8-b7e9-b690c36414e5": {
+      "ProjectGuid": "8550f78a-b099-4cc8-b7e9-b690c36414e5",
+      "DisplayName": "Webmarket.DataAccess",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a97f1eb1-6f31-4baf-a8c7-246c8c367683": {
+      "ProjectGuid": "a97f1eb1-6f31-4baf-a8c7-246c8c367683",
+      "DisplayName": "Webmarket.Models",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

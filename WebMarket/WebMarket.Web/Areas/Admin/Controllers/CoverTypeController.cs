@@ -35,13 +35,18 @@ namespace WebMarket.Web.Controllers
             if (ModelState.IsValid)
             {
                 _coverTypeService.Add(obj);
-                TempData["success"] = "تایپ جدید با موفقیت ایجاد شد";
+                TempData["success"] = "کاور تایپ جدید با موفقیت ایجاد شد";
+
                 return RedirectToAction("Index");
+
             }
             return View(obj);
+
+
         }
 
         //Get
+        [HttpGet]
         public IActionResult Edit(int? id)
         {
             if (id == null || id == 0)
