@@ -9,9 +9,9 @@ namespace WebMarket.Utility
     {
         public async Task SendEmailAsync(string email, string subject, string htmlMessage)
         {
-            var fromAddress = new MailAddress("arianmiramini1381@gmail.com", "WebMarket");
+            var fromAddress = new MailAddress("miramini@amnpardaz.ir", "WebMarket");
             var toAddress = new MailAddress(email);
-            string fromPassword = "Ari@n1381";
+            string fromPassword = "Ari@n9099";
 
             var smtp = new SmtpClient
             {

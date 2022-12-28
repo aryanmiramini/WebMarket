@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oniPay0FVh8yTKvbnX5wyZtzTDALRQN41QF1vxe05JInb81I7L9XZJ/jpYrtK+ScI0Vbf9o8OXQM9me3S883NA==",
+  "dgSpecHash": "46khTdiwLL2D2SPVoNUHjC5GV0i9DfiVLrJgtmL41UtQQ6vfUvlkOk6fTiW06R1d4RNt4Kl2IYwnH5PZ92PWiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miramini\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+  "projectFilePath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

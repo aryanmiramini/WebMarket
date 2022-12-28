@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebMarket.DataAccess.Services;
 using WebMarket.DataAccess.Services.Interface;
 using WebMarket.Models;
@@ -6,6 +7,8 @@ using WebMarket.Models;
 namespace WebMarket.Web.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "ادمین")]
+
     public class CompanyController : Controller
     {
         private readonly ICompanyService _companyService;

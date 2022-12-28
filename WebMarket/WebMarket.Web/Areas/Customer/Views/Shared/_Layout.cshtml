@@ -30,15 +30,16 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                     <li class="nav-item"><a class="nav-link active" aria-current="page" asp-area="Customer" asp-controller="Home" asp-action="Index">صفحه اصلی</a></li>
                     <li class="nav-item dropdown">
-
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">مدیریت محتوا</a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">مدیریت دسته ها</a></li>
+                        @if (@User.IsInRole("ادمین"))
+                        {
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">مدیریت محتوا</a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">مدیریت دسته ها</a></li>
                             <li><a class="dropdown-item" asp-area="Admin" asp-controller="CoverType" asp-action="Index">مدیریت کاور تایپ ها</a></li>
                             <li><a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">مدیریت محصولات</a></li>
                             <li><a class="dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">مدیریت کمپانی</a></li>
                             <li><a class="dropdown-item" asp-area="Admin" asp-controller="ShoppingCart" asp-action="Index">مدیریت سبدخرید</a></li>
-                        </ul>
+                        </ul>}
                     </li>
                 </ul>
                 <ul class="navbar-nav">

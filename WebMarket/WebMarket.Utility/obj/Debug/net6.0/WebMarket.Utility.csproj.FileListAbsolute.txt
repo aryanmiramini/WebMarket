@@ -305,3 +305,15 @@ C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMark
 C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.dll
 C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\ref\WebMarket.Utility.dll
 C:\Users\miramini\WebMarket\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.pdb
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.deps.json
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.dll
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\bin\Debug\net6.0\ref\WebMarket.Utility.dll
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\bin\Debug\net6.0\WebMarket.Utility.pdb
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.csproj.AssemblyReference.cache
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.AssemblyInfoInputs.cache
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.AssemblyInfo.cs
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.csproj.CoreCompileInputs.cache
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.dll
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\ref\WebMarket.Utility.dll
+C:\Users\miramini\source\repos\WebMarke\WebMarket\WebMarket.Utility\obj\Debug\net6.0\WebMarket.Utility.pdb

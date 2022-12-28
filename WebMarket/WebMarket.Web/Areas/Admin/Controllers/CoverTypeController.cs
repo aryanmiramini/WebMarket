@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Webmarket.Models;
 using WebMarket.DataAccess.Services.Interface;
 
 namespace WebMarket.Web.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "ادمین")]
+
     public class CoverTypeController : Controller
     {
         private readonly ICoverTypeService _coverTypeService;

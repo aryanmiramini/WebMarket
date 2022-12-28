@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using WebMarket.DataAccess.Services.Interface;
 using WebMarket.Models.ViewModels;
@@ -6,6 +7,7 @@ using WebMarket.Models.ViewModels;
 namespace WebMarket.Web.Areas.Customer.Controllers
 {
     [Area("Customer")]
+    [Authorize]
     public class CartController : Controller
     {
         private readonly IShoppingCartService _shoppingCart;
@@ -23,6 +25,7 @@ namespace WebMarket.Web.Areas.Customer.Controllers
         [HttpGet]
         public IActionResult Index()
         {
+
             var user = _signInManager.UserManager.FindByNameAsync(User.Identity.Name).Result;
 
             ShoppingCartVM shoppingCartVM = new ShoppingCartVM()
@@ -60,4 +63,3 @@ namespace WebMarket.Web.Areas.Customer.Controllers
 
     }
 }
-

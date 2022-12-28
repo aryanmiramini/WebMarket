@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using WebMarket.DataAccess.Services.Interface;
 using WebMarket.Models.ViewModels;
@@ -6,6 +7,8 @@ using WebMarket.Models.ViewModels;
 namespace WebMarket.Web.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "ادمین")]
+
     public class ProductController : Controller
     {
         private readonly IProductService _productService;

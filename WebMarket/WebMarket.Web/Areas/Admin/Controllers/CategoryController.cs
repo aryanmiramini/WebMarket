@@ -6,7 +6,7 @@ using WebMarket.DataAccess.Services.Interface;
 namespace WebMarket.Web.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles ="Admin")]
+    [Authorize(Roles = "ادمین")]
     public class CategoryController : Controller
     {
         private readonly ICategoryService _categoryService;
