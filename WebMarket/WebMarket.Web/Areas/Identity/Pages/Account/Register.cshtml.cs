@@ -57,23 +57,24 @@ namespace WebMarket.Web.Areas.Identity.Pages.Account
         public class InputModel
         {
 
-            [Required]
-            [EmailAddress]
-            [Display(Name = "Email")]
+            [Required(ErrorMessage = "ایمیل اجباری است")]
+            [EmailAddress(ErrorMessage = "ایمیل نامعتبر است")]
+            [Display(Name = "ایمیل")]
             public string Email { get; set; }
 
-            [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [Required(ErrorMessage = "رمز عبور اجباریست")]
+            [StringLength(100, ErrorMessage = "رمز عبور باید حداقل{2} کارکتر و حداکثر {1} کارکتر باشد", MinimumLength = 6)]
             [DataType(DataType.Password)]
-            [Display(Name = "Password")]
+            [Display(Name = "رمز عبور")]
             public string Password { get; set; }
 
 
             [DataType(DataType.Password)]
-            [Display(Name = "Confirm password")]
-            [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+            [Display(Name = "تاییدیه رمز عبور")]
+            [Compare("Password", ErrorMessage = "رمز عبور و تایید ان باید یکی باشند")]
             public string ConfirmPassword { get; set; }
-            [Required]
+            [Required(ErrorMessage = " نام و نام خانوادگی اجباریست")]
+
 
 
             public string FullName { get; set; }

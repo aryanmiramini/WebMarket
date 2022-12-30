@@ -16,30 +16,30 @@
 
             <div class="form-floating">
                 <input asp-for="Input.FullName" class="form-control" autocomplete="username" aria-required="true" />
-                <label asp-for="Input.FullName"></label>
+                <label asp-for="Input.FullName">نام و نام خانوادگی</label>
                 <span asp-validation-for="Input.FullName" class="text-danger"></span>
             </div>
 
             <div class="form-floating">
                 <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
-                <label asp-for="Input.Email"></label>
+                <label asp-for="Input.Email">ایمیل</label>
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
 
 
                 <div class="form-floating">
                     <input asp-for="Input.Address" class="form-control" autocomplete="username" aria-required="true" />
-                    <label asp-for="Input.Address"></label>
+                    <label asp-for="Input.Address">آدرس</label>
                     <span asp-validation-for="Input.Address" class="text-danger"></span>
                 </div>
 
                 <div class="form-floating">
                     <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
-                    <label asp-for="Input.Password"></label>
+                    <label asp-for="Input.Password">رمز ورود</label>
                     <span asp-validation-for="Input.Password" class="text-danger"></span>
                 </div>
                 <div class="form-floating">
                     <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
-                    <label asp-for="Input.ConfirmPassword"></label>
+                    <label asp-for="Input.ConfirmPassword">تایید رمز ورود</label>
                     <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
 
                 </div>  <div class="form-floating">
@@ -52,12 +52,12 @@
                     <option disabled selected>انتخاب کمپانی</option>
                 </select>
             </div>
-            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">ثبت نام</button>
         </form>
     </div>
     <div class="col-md-6 col-md-offset-2">
         <section>
-            <h3>Use another service to register.</h3>
+            <h3>استفاده از سرویس دیگری برای ثبت نام.</h3>
             <hr />
             @{
                 if ((Model.ExternalLogins?.Count ?? 0) == 0)

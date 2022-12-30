@@ -1,35 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj": {}
+    "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
+    "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
         "projectName": "Webmarket.DataAccess",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
-                "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj"
+              "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj"
               }
             }
           }
@@ -77,28 +81,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
+    "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
         "projectName": "Webmarket.Models",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
-        "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.Models\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,28 +150,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
+    "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
         "projectName": "WebMarket.Utility",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
-        "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -203,39 +215,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj": {
+    "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
         "projectName": "WebMarket.Web",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
-        "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Web\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj"
+              "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj"
               },
-              "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
-                "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarke\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj"
+              "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj"
               }
             }
           }
@@ -308,7 +324,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
