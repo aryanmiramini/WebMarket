@@ -2,6 +2,7 @@
 using System.Linq.Expressions;
 using WebMarket.DataAccess.Services.Interface;
 using WebMarket.Models;
+using WebMarket.Models.ViewModels;
 
 namespace WebMarket.DataAccess.Services
 {
@@ -41,7 +42,16 @@ namespace WebMarket.DataAccess.Services
             shoppingCart.Count += count;
             _db.SaveChanges();
             return shoppingCart.Count;
+
         }
+
+        public int IncrementCountVM(ShoppingCartVM shoppingCartVM, int count)
+        {
+            shoppingCartVM.Count += count;
+            _db.SaveChanges();
+            return shoppingCartVM.Count;
+        }
+
 
         public int DecrementCount(ShoppingCart shoppingCart, int count)
         {

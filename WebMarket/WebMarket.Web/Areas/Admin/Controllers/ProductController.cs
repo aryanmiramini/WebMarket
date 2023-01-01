@@ -52,8 +52,7 @@ namespace WebMarket.Web.Controllers
             if (id == null || id == 0)
             {
                 //create
-                //ViewBag.CategoryList = CategoryList;
-                //ViewData["CoverTypeList"] = CoverTypeList;
+                
                 return View(productVM);
             }
             else

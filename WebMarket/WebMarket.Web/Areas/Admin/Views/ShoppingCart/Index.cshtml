@@ -14,7 +14,7 @@
             </h2>
         </div>
         <div class="col-6 text-end">
-            <a asp-controller="ShoppingCart" asp-action="Create" class="btn btn-primary">
+            <a asp-controller="ShoppingCart" asp-action="OnPostAsync" class="btn btn-primary">
                 <i class="bi bi-plus-circle"></i> ایجاد سبدخرید جدید
             </a>
         </div>
@@ -38,9 +38,9 @@
             </th>
         </tr>
     </thead>
-    <tbody>
+@*    <tbody>
         @foreach(var obj in Model)
-        {
+      {
             <tr>
                      <td width="33%">
                     @obj.ApplicationUser.UserName
@@ -63,6 +63,6 @@
                 </td>
             </tr>
         }
-    </tbody>
+    </tbody>*@
 </table>
 </div>

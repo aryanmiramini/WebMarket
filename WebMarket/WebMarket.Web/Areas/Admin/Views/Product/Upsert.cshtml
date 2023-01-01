@@ -16,7 +16,6 @@
                     <h2>@(Model.Product.Id != 0 ? "ویرایش" : "ایجاد") محصول</h2>
                     <hr />
                 </div>
-                @* <div asp-validation-summary="All" class="text-danger"></div>*@
                 <div class="col mb-3">
                     <label asp-for="Product.Title"></label>
                     <input asp-for="Product.Title" class="form-control" />

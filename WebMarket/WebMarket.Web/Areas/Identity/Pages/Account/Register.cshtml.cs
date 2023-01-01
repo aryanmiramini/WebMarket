@@ -32,7 +32,7 @@ namespace WebMarket.Web.Areas.Identity.Pages.Account
             ILogger<RegisterModel> logger,
             IEmailSender emailSender,
             RoleManager<IdentityRole> roleManager,
-            ICompanyService  companyService )
+            ICompanyService companyService)
 
         {
             _userManager = userManager;
@@ -134,9 +134,9 @@ namespace WebMarket.Web.Areas.Identity.Pages.Account
                 user.Address = Input.Address;
                 user.FullName = Input.FullName;
 
-                if(Input.Role == SD.Role_Company)
+                if (Input.Role == SD.Role_Company)
                 {
-                    user.CompanyId=Input.CompanyId; 
+                    user.CompanyId = Input.CompanyId;
                 }
 
                 var result = await _userManager.CreateAsync(user, Input.Password);
@@ -154,17 +154,16 @@ namespace WebMarket.Web.Areas.Identity.Pages.Account
                         await _userManager.AddToRoleAsync(user, Input.Role);
                     }
 
-                      /*  var userId = await _userManager.GetUserIdAsync(user);
-                    var code = await _usermanager.generateemailconfirmationtokenasync(user);
-                    code = webencoders.base64urlencode(encoding.utf8.getbytes(code));
-                    var callbackurl = url.page(
-                        "/account/confirmemail",
-                        pagehandler: null,
-                        values: new { area = "identity", userid = userid, code = code, returnurl = returnurl },
-                        protocol: request.scheme);
-
-                    await _emailsender.sendemailasync(input.email, "confirm your email",
-                        $"please confirm your account by <a href='{htmlencoder.default.encode(callbackurl)}'>clicking here</a>.");*/
+                    /*  var userId = await _userManager.GetUserIdAsync(user);
+                  var code = await _usermanager.generateemailconfirmationtokenasync(user);
+                  code = webencoders.base64urlencode(encoding.utf8.getbytes(code));
+                  var callbackurl = url.page(
+                      "/account/confirmemail",
+                      pagehandler: null,
+                      values: new { area = "identity", userid = userid, code = code, returnurl = returnurl },
+                      protocol: request.scheme);
+                  await _emailsender.sendemailasync(input.email, "confirm your email",
+                      $"please confirm your account by <a href='{htmlencoder.default.encode(callbackurl)}'>clicking here</a>.");*/
 
                     if (_userManager.Options.SignIn.RequireConfirmedAccount)
                     {

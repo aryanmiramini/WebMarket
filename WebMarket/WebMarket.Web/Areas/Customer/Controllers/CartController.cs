@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using WebMarket.DataAccess.Services.Interface;
+using WebMarket.Models;
 using WebMarket.Models.ViewModels;
 
 namespace WebMarket.Web.Areas.Customer.Controllers
@@ -37,6 +38,7 @@ namespace WebMarket.Web.Areas.Customer.Controllers
                 cart.Price = GetPriceBasedOnQuantity(cart.Count, cart.Product.Price, cart.Product.Price50, cart.Product.Price100);
                 shoppingCartVM.CartTotal += (cart.Price * cart.Count);
             }
+
             return View(shoppingCartVM);
         }
 
@@ -58,8 +60,32 @@ namespace WebMarket.Web.Areas.Customer.Controllers
                     return price100;
                 }
             }
+        }
+
+     
+        public  IActionResult Increament()
+        {
+          
+            ShoppingCartVM shoppingCartVM = new ShoppingCartVM();
+
+            int cartCount = shoppingCartVM.Count;
+            cartCount =  _shoppingCart.IncrementCountVM(shoppingCartVM, cartCount);
+
+            return RedirectToAction("Index");
 
         }
 
+       
+
+       
+
+
+
+
+
+
     }
+  
+
+
 }

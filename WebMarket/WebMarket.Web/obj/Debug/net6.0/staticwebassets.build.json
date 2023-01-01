@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1xuWKZia0J4Cc92dQKmqvHD6tJu+uhDpXmQd7l+R3y0=",
+  "Hash": "bhIZzRcrtSmjqeRy5vYD88FTE4wBuTBZ8c1IR3uAyRc=",
   "Source": "WebMarket.Web",
   "BasePath": "_content/WebMarket.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebMarket.Web\\wwwroot",
       "Source": "WebMarket.Web",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\miramini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebMarket.Web.styles.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebMarket.Web.styles.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "WebMarket.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebMarket.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebMarket.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebMarket.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebMarket.Web.bundle.scp.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "WebMarket.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebMarket.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebMarket.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\css\\AdminCustomStyles.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\css\\AdminCustomStyles.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "css/AdminCustomStyles.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AdminCustomStyles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\css\\site.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\favicon.ico",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\fontiran.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\fontiran.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/css/fontiran.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\css\\fontiran.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\style.css",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\css\\style.css",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/css/style.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot.zip",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot.zip",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot.zip",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot.zip"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb.eot",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Black.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Black.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb_Black.eot",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Black.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Bold.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Bold.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb_Bold.eot",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Light.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb_Light.eot",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Light.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Medium.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb_Medium.eot",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_UltraLight.eot",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_UltraLight.eot",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/eot/IRANSansWeb_UltraLight.eot",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\eot\\IRANSansWeb_UltraLight.eot"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb.ttf",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Black.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Black.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb_Black.ttf",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb_Bold.ttf",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Light.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb_Light.ttf",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Medium.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Medium.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb_Medium.ttf",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/ttf/IRANSansWeb_UltraLight.ttf",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb.woff",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Black.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Black.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb_Black.woff",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Black.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Bold.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Bold.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb_Bold.woff",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Light.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Light.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb_Light.woff",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Light.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Medium.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb_Medium.woff",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff/IRANSansWeb_UltraLight.woff",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb.woff2",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Black.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Black.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb_Black.woff2",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Bold.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Bold.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb_Bold.woff2",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Light.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb_Light.woff2",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb_Medium.woff2",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "fonts/fonts/woff2/IRANSansWeb_UltraLight.woff2",
       "AssetKind": "All",
@@ -1581,12 +1581,12 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\03b158ae-44a1-4c50-b137-c36981ac86b3.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\064aa00b-7fc5-420e-b111-c84601db1b26.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/03b158ae-44a1-4c50-b137-c36981ac86b3.jpg",
+      "RelativePath": "images/products/064aa00b-7fc5-420e-b111-c84601db1b26.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\03b158ae-44a1-4c50-b137-c36981ac86b3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\064aa00b-7fc5-420e-b111-c84601db1b26.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\11962836-ae2b-4bfc-955d-563e54f74118.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\29268320-544b-4534-bb40-b1933861d1e2.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/11962836-ae2b-4bfc-955d-563e54f74118.jpg",
+      "RelativePath": "images/products/29268320-544b-4534-bb40-b1933861d1e2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\11962836-ae2b-4bfc-955d-563e54f74118.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\29268320-544b-4534-bb40-b1933861d1e2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\1663817c-4c7f-46a5-825f-d47fa7174fcf.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\389b766e-f6e2-4b0c-bb0a-666dc2d626a8.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/1663817c-4c7f-46a5-825f-d47fa7174fcf.jpg",
+      "RelativePath": "images/products/389b766e-f6e2-4b0c-bb0a-666dc2d626a8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\1663817c-4c7f-46a5-825f-d47fa7174fcf.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\389b766e-f6e2-4b0c-bb0a-666dc2d626a8.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\1cf4115c-16a3-43aa-96d4-070faf705012.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\3b3e0e99-98ba-4097-9a0f-c0ad22f2cb2d.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/1cf4115c-16a3-43aa-96d4-070faf705012.jpg",
+      "RelativePath": "images/products/3b3e0e99-98ba-4097-9a0f-c0ad22f2cb2d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\1cf4115c-16a3-43aa-96d4-070faf705012.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\3b3e0e99-98ba-4097-9a0f-c0ad22f2cb2d.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\2431d717-c0bf-49e6-85d1-876f75a2ae06.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\3d992fbe-8996-405c-95ab-dfc5fbb981b9.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/2431d717-c0bf-49e6-85d1-876f75a2ae06.jpg",
+      "RelativePath": "images/products/3d992fbe-8996-405c-95ab-dfc5fbb981b9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\2431d717-c0bf-49e6-85d1-876f75a2ae06.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\3d992fbe-8996-405c-95ab-dfc5fbb981b9.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\28478baf-fa48-4ca9-82d0-8f3fe04699c9.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\62504fc9-56e1-4a94-9b90-c33af4f2e740.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/28478baf-fa48-4ca9-82d0-8f3fe04699c9.jpg",
+      "RelativePath": "images/products/62504fc9-56e1-4a94-9b90-c33af4f2e740.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\28478baf-fa48-4ca9-82d0-8f3fe04699c9.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\62504fc9-56e1-4a94-9b90-c33af4f2e740.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\3df67346-e3c8-4fa9-83ad-efcedd0821f0.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\6d5b19f6-da48-43af-8240-9cfb51c72712.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/3df67346-e3c8-4fa9-83ad-efcedd0821f0.jpg",
+      "RelativePath": "images/products/6d5b19f6-da48-43af-8240-9cfb51c72712.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,98 +1697,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\3df67346-e3c8-4fa9-83ad-efcedd0821f0.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\6d5b19f6-da48-43af-8240-9cfb51c72712.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\439f532e-7681-4b66-b4ba-be2ebdd19fdc.html",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\6dc4c8fb-c2c8-4d68-851d-098d6226a23f.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/439f532e-7681-4b66-b4ba-be2ebdd19fdc.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\439f532e-7681-4b66-b4ba-be2ebdd19fdc.html"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\440e8730-38d3-40a3-88dd-9abaae5dc273.html",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/440e8730-38d3-40a3-88dd-9abaae5dc273.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\440e8730-38d3-40a3-88dd-9abaae5dc273.html"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\522571c1-91fa-4f3b-a18a-765e95bd4215.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/522571c1-91fa-4f3b-a18a-765e95bd4215.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\522571c1-91fa-4f3b-a18a-765e95bd4215.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\5955ec6b-a912-45df-9abb-f02abb1004b3.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/5955ec6b-a912-45df-9abb-f02abb1004b3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\5955ec6b-a912-45df-9abb-f02abb1004b3.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\5a3c988a-15c5-489d-bb1f-b4d270580687.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/5a3c988a-15c5-489d-bb1f-b4d270580687.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\5a3c988a-15c5-489d-bb1f-b4d270580687.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\6dc4c8fb-c2c8-4d68-851d-098d6226a23f.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "images/products/6dc4c8fb-c2c8-4d68-851d-098d6226a23f.jpg",
       "AssetKind": "All",
@@ -1802,12 +1717,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\6dc4c8fb-c2c8-4d68-851d-098d6226a23f.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\7b77b51c-40c6-429f-9aca-d8994e8cec8f.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\7b349a6d-340d-4209-8104-df0dbc778d76.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/7b77b51c-40c6-429f-9aca-d8994e8cec8f.jpg",
+      "RelativePath": "images/products/7b349a6d-340d-4209-8104-df0dbc778d76.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\7b77b51c-40c6-429f-9aca-d8994e8cec8f.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\7b349a6d-340d-4209-8104-df0dbc778d76.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\805763bd-5482-4c18-b9cc-e9bb17b2ec2f.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\9008ace2-9897-407c-b577-705b1dfb18d0.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/805763bd-5482-4c18-b9cc-e9bb17b2ec2f.jpg",
+      "RelativePath": "images/products/9008ace2-9897-407c-b577-705b1dfb18d0.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\805763bd-5482-4c18-b9cc-e9bb17b2ec2f.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\9008ace2-9897-407c-b577-705b1dfb18d0.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\8f7016eb-d74d-4485-9394-a378f96027b0.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\98720186-a4e7-444d-9bbf-c31278ca7d7f.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/8f7016eb-d74d-4485-9394-a378f96027b0.jpg",
+      "RelativePath": "images/products/98720186-a4e7-444d-9bbf-c31278ca7d7f.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,47 +1765,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\8f7016eb-d74d-4485-9394-a378f96027b0.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\98720186-a4e7-444d-9bbf-c31278ca7d7f.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\94f8ee06-8d68-4e22-9732-02a1e2ff5b5a.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a039bfc4-8091-4380-aa92-ae75f685f0d0.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/94f8ee06-8d68-4e22-9732-02a1e2ff5b5a.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\94f8ee06-8d68-4e22-9732-02a1e2ff5b5a.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\9cb6a528-cf97-4826-9042-3fc13c8d1682.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
-      "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/9cb6a528-cf97-4826-9042-3fc13c8d1682.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\9cb6a528-cf97-4826-9042-3fc13c8d1682.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a039bfc4-8091-4380-aa92-ae75f685f0d0.jpg",
-      "SourceId": "WebMarket.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "images/products/a039bfc4-8091-4380-aa92-ae75f685f0d0.jpg",
       "AssetKind": "All",
@@ -1904,10 +1785,44 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\a039bfc4-8091-4380-aa92-ae75f685f0d0.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a7cd626b-c678-4720-b6de-9eccdb65f449.url",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a1c21e9c-4f15-42e5-ac08-4fce20baaedd.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "BasePath": "_content/WebMarket.Web",
+      "RelativePath": "images/products/a1c21e9c-4f15-42e5-ac08-4fce20baaedd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\a1c21e9c-4f15-42e5-ac08-4fce20baaedd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a48398bb-b379-44a7-822b-628581a5991e.jpg",
+      "SourceId": "WebMarket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "BasePath": "_content/WebMarket.Web",
+      "RelativePath": "images/products/a48398bb-b379-44a7-822b-628581a5991e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\a48398bb-b379-44a7-822b-628581a5991e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\a7cd626b-c678-4720-b6de-9eccdb65f449.url",
+      "SourceId": "WebMarket.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "images/products/a7cd626b-c678-4720-b6de-9eccdb65f449.url",
       "AssetKind": "All",
@@ -1921,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\a7cd626b-c678-4720-b6de-9eccdb65f449.url"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\b99af77f-8213-44d4-820a-ed59183991d9.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\b99af77f-8213-44d4-820a-ed59183991d9.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "images/products/b99af77f-8213-44d4-820a-ed59183991d9.jpg",
       "AssetKind": "All",
@@ -1938,12 +1853,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\b99af77f-8213-44d4-820a-ed59183991d9.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\bcb30602-6fa9-4999-a4fa-e887a6cfb7ca.url",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\c1d4e6f1-0bb4-4c05-8a92-c47b42610360.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/bcb30602-6fa9-4999-a4fa-e887a6cfb7ca.url",
+      "RelativePath": "images/products/c1d4e6f1-0bb4-4c05-8a92-c47b42610360.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\bcb30602-6fa9-4999-a4fa-e887a6cfb7ca.url"
+      "OriginalItemSpec": "wwwroot\\images\\products\\c1d4e6f1-0bb4-4c05-8a92-c47b42610360.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\cce8223b-ad9c-4625-92a7-7334c1bd6619.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\c335a099-bac2-4de2-a43b-f587aa840cb3.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/cce8223b-ad9c-4625-92a7-7334c1bd6619.jpg",
+      "RelativePath": "images/products/c335a099-bac2-4de2-a43b-f587aa840cb3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\cce8223b-ad9c-4625-92a7-7334c1bd6619.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\c335a099-bac2-4de2-a43b-f587aa840cb3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\cfa2cb13-c3ff-4453-a665-b389605c925d.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\e1f3c737-9a2b-451a-916c-c61261161ba4.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/cfa2cb13-c3ff-4453-a665-b389605c925d.jpg",
+      "RelativePath": "images/products/e1f3c737-9a2b-451a-916c-c61261161ba4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\cfa2cb13-c3ff-4453-a665-b389605c925d.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\e1f3c737-9a2b-451a-916c-c61261161ba4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\fb2344bc-34c3-4e49-94ba-35d73aac6079.jpg",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\images\\products\\f75dd744-8a72-4789-85d2-45cc46951edd.jpg",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
-      "RelativePath": "images/products/fb2344bc-34c3-4e49-94ba-35d73aac6079.jpg",
+      "RelativePath": "images/products/f75dd744-8a72-4789-85d2-45cc46951edd.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,13 +1918,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\fb2344bc-34c3-4e49-94ba-35d73aac6079.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\f75dd744-8a72-4789-85d2-45cc46951edd.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\js\\product.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -2023,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2040,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2057,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2074,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2091,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2108,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2125,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2142,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2159,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2176,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2193,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2210,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebMarket.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\visualstudio\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\wwwroot\\",
       "BasePath": "_content/WebMarket.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

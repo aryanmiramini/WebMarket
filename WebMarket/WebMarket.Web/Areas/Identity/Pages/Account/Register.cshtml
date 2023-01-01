@@ -87,10 +87,10 @@
 <partial name="_ValidationScriptsPartial" />
 
 <script>
+
+
     $(document).ready(function(){
-
         $('#Input_Role').change(function (){
-
             var selection = $('#Input_Role Option:Selected').text();
             if (selection != 'کمپانی'){ $('#Input_CompanyId').hide();
             }
@@ -98,8 +98,7 @@
                 $('#Input_CompanyId').show();
             }
         })
-
     })
-
 </script>
+
 }
