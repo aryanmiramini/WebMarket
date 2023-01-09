@@ -12,5 +12,6 @@ namespace WebMarket.DataAccess.Services.Interface
         public void Remove(Product entity);
         public void RemoveRange(IEnumerable<Product> entities);
         public void Update(Product product);
+
     }
 }

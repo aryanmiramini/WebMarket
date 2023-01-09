@@ -41,12 +41,15 @@
                     <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
                     <label asp-for="Input.ConfirmPassword">تایید رمز ورود</label>
                     <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
-
-                </div>  <div class="form-floating">
-                    <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
-                        <option disabled selected>انتخاب نقش</option>
-                    </select>
                 </div>
+                @if (@User.IsInRole("ادمین"))
+                {
+                    <div class="form-floating">
+                        <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
+                            <option disabled selected>انتخاب نقش</option>
+                        </select>
+                    </div>
+                }
             </div>  <div class="form-floating">
                 <select asp-for="Input.CompanyId" style="display:none" asp-items="@Model.Input.CompanyList" class="form-select">
                     <option disabled selected>انتخاب کمپانی</option>

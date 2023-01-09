@@ -34,6 +34,8 @@ namespace WebMarket.DataAccess.Services
             return query.FirstOrDefault();
         }
 
+
+
         public void Remove(Product entity)
         {
             _db.Products.Remove(entity);

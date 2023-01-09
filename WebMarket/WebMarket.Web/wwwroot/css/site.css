@@ -16,6 +16,8 @@ html {
 body {
     margin-top: 20px;
     background: #eee;
+    max-height:400px;
+    min-height:300px;
 }
 
 

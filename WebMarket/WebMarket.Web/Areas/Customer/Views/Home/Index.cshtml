@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Product>
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "وبمارکت";
+    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";                             
 }
 
 <div class="card-group">
@@ -11,7 +11,7 @@
     
             <div class="col-4 mb-4">
                 <div class="card">
-                    <img class="card-img-top" src="~/images/products/@item.ImageUrl" alt="@item.ImageAlt" title="@item.ImageTitle">
+                    <img class="card-img-top" style="max-height:600px; min-height:450px;" src="~/images/products/@item.ImageUrl" alt="@item.ImageAlt" title="@item.ImageTitle">
                     <div class="card-body">
                         <h5 class="card-title text-center">@item.Title</h5>
                         <hr/>

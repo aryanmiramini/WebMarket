@@ -17,7 +17,7 @@ namespace WebMarket.Web.Controllers
         private readonly IWebHostEnvironment _hostEnvironment;
 
         public ProductController(IProductService productService
-            , ICategoryService categoryService, ICoverTypeService coverTypeService, 
+            , ICategoryService categoryService, ICoverTypeService coverTypeService,
             IWebHostEnvironment hostEnvironment)
         {
             _productService = productService;
@@ -51,14 +51,17 @@ namespace WebMarket.Web.Controllers
 
             if (id == null || id == 0)
             {
-                //create
-                
+               
                 return View(productVM);
             }
             else
             {
-                //update
+                
                 productVM.Product = _productService.GetFirstOrDefault(u => u.Id == id);
+                if(productVM.Product == null)
+                {
+                    return NotFound();
+                }
                 return View(productVM);
             }
             return View(productVM);
@@ -66,46 +69,87 @@ namespace WebMarket.Web.Controllers
 
         //post
         [HttpPost]
-        public IActionResult Upsert(ProductVM obj, IFormFile? file)
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(ProductVM productVM)
         {
-            string wwwRootPath = _hostEnvironment.WebRootPath;
 
             if (ModelState.IsValid)
             {
-                if(file != null)
+                string wwwRootPath = _hostEnvironment.WebRootPath;
+                var files = HttpContext.Request.Form.Files;
+
+                if (productVM.Product.Id == 0)
                 {
+                    //Creating
+                    string upload = Path.Combine(wwwRootPath, @"images\products");
                     string fileName = Guid.NewGuid().ToString();
-                    var uploads = Path.Combine(wwwRootPath, @"images\products");
-                    var extenstion = Path.GetExtension(file.FileName);
+                    string extension = Path.GetExtension(files[0].FileName);
 
-                    if(obj.Product.ImageUrl != null)
+                    using (var fileStream = new FileStream(Path.Combine(upload, fileName + extension), FileMode.Create))
                     {
-                        var oldImagePath = Path.Combine(wwwRootPath, obj.Product.ImageUrl.TrimStart('\\'));
-                        if (System.IO.File.Exists(oldImagePath))
-                        {
-                            System.IO.File.Delete(oldImagePath);
-                        }
+                        files[0].CopyTo(fileStream);
                     }
 
-                    using (var fileStreams = new FileStream(Path.Combine(uploads, fileName + extenstion), FileMode.Create))
-                    {
-                        file.CopyTo(fileStreams);
-                    }
+                    productVM.Product.ImageUrl = fileName + extension;
 
-                    obj.Product.ImageUrl = fileName + extenstion;
+                    _productService.Add(productVM);
                 }
+                else
+                {
+                    //updating
+                    var objFromDb = _productService.GetFirstOrDefault(u => u.Id == productVM.Product.Id);
 
-                if (obj.Product.Id == 0) _productService.Add(obj);
-                else _productService.Update(obj.Product);
+                    if (files.Count > 0)
+                    {
+                        string upload = Path.Combine(wwwRootPath, @"images\products");
+                        string fileName = Guid.NewGuid().ToString();
+                        string extension = Path.GetExtension(files[0].FileName);
+
+                        var oldFile = Path.Combine(upload, objFromDb.ImageUrl);
+
+                        if (System.IO.File.Exists(oldFile))
+                        {
+                            System.IO.File.Delete(oldFile);
+                        }
+
+                        using (var fileStream = new FileStream(Path.Combine(upload, fileName + extension), FileMode.Create))
+                        {
+                            files[0].CopyTo(fileStream);
+                        }
+
+                        productVM.Product.ImageUrl = fileName + extension;
+                    }
+                    else
+                    {
+                        productVM.Product.ImageUrl = objFromDb.ImageUrl;
+                    }
+                    _productService.Update(productVM.Product);
+                }
 
                 TempData["success"] = "محصول با موفقیت ویرایش شد";
                 return RedirectToAction("Index");
             }
-            return View(obj);
+
+
+            productVM = new()
+            {
+                Product = new(),
+                CategoryList = _categoryService.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+                CoverTypeList = _coverTypeService.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                })
+            };
+
+            return View(productVM);
         }
 
 
- 
         #region API CALL
         [HttpGet]
         public IActionResult GetAll()
@@ -118,14 +162,18 @@ namespace WebMarket.Web.Controllers
         public IActionResult Delete(int? id)
         {
             var obj = _productService.GetFirstOrDefault(u => u.Id == id);
-            if(obj == null)
+            if (obj == null)
             {
                 return Json(new { success = false, message = "خطا در حذف " });
             }
+            string wwwRootPath = _hostEnvironment.WebRootPath;
             var oldImagePath = Path.Combine(_hostEnvironment.WebRootPath, obj.ImageUrl.TrimStart('\\'));
-            if (System.IO.File.Exists(oldImagePath))
+            var uploads = Path.Combine(wwwRootPath, @"images\products");
+            var oldfile = Path.Combine(uploads, obj.ImageUrl);
+
+            if (System.IO.File.Exists(oldfile))
             {
-                System.IO.File.Delete(oldImagePath);
+                System.IO.File.Delete(oldfile);
             }
             _productService.Remove(obj);
             return Json(new { success = true, message = "حذف موفقیت آمیز بود" });

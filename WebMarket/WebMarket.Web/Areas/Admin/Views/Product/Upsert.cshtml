@@ -7,8 +7,8 @@
 
 
 <form method="post" asp-action="Upsert" enctype="multipart/form-data">
-       <input asp-for="Product.Id" hidden />
-   <input asp-for="Product.ImageUrl" hidden />
+    <input asp-for="Product.Id" hidden />
+    <input asp-for="Product.ImageUrl" hidden />
     <div class="container">
         <div class="row mb-4">
             <div class="border p-3 mt-4">
@@ -23,12 +23,12 @@
                 </div>
                 <div class="col mb-3">
                     <label asp-for="Product.Description"></label>
-                    <textarea rows="10" asp-for="Product.Description" class="form-control"> </textarea>
+                    <textarea asp-for="Product.Description" class="form-control" id="summernote"></textarea>
                     <span asp-validation-for="Product.Description" class="text-danger"></span>
                 </div>
                 <div class="col mb-3">
                     <label asp-for="Product.ShortDescription"></label>
-                    <textarea rows="5" asp-for="Product.ShortDescription" class="form-control"></textarea>
+                    <textarea rows="2" asp-for="Product.ShortDescription" class="form-control"></textarea>
                     <span asp-validation-for="Product.ShortDescription" class="text-danger"></span>
                 </div>
                 <div class="row">
@@ -67,59 +67,69 @@
                         <span asp-validation-for="Product.Price100" class="text-danger"></span>
                     </div>
                 </diw>
-                <div class="col mb-3">
-                    <label asp-for="Product.ImageUrl"></label>
-                    <input type="file" id="uploadBox" name="file" class="form-control" />
-                </div>
                 <div class="row">
-                    <div class="col-6 mb-3">
-                        <label asp-for="Product.ImageTitle"></label>
-                        <input asp-for="Product.ImageTitle" class="form-control" />
-                        <span asp-validation-for="Product.ImageTitle" class="text-danger"></span>
+                    <div class="col mb-3">
+                        <label asp-for="Product.ImageUrl"></label>
+                        <input type="file" id="uploadBox" name="file" class="form-control" />
+                        @if (Model.Product.Id != 0)
+                        {
+                            <div class="col-4">
+
+                                <img src="~/images/products/@Model.Product.ImageUrl" width="100%" style="border-radius:5px; border:1px; solid #bbb" />
+
+                            </div>
+                        }
                     </div>
-                    <div class="col-6 mb-3">
-                        <label asp-for="Product.ImageAlt"></label>
-                        <input asp-for="Product.ImageAlt" class="form-control" />
-                        <span asp-validation-for="Product.ImageAlt" class="text-danger"></span>
+                    <div></div>
+                    <div class="row">
+                        <div class="col-6 mb-3">
+                            <label asp-for="Product.ImageTitle"></label>
+                            <input asp-for="Product.ImageTitle" class="form-control" />
+                            <span asp-validation-for="Product.ImageTitle" class="text-danger"></span>
+                        </div>
+                        <div class="col-6 mb-3">
+                            <label asp-for="Product.ImageAlt"></label>
+                            <input asp-for="Product.ImageAlt" class="form-control" />
+                            <span asp-validation-for="Product.ImageAlt" class="text-danger"></span>
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-6 mb-3">
-                        <label asp-for="Product.CategoryId"></label>
-                        <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
-                            <option disabled selected>--انتخاب دسته--</option>
-                        </select>
-                        <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                    <div class="row">
+                        <div class="col-6 mb-3">
+                            <label asp-for="Product.CategoryId"></label>
+                            <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                                <option disabled selected>--انتخاب دسته--</option>
+                            </select>
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="col-6 mb-3">
+                            <label asp-for="Product.CoverTypeId"></label>
+                            <select asp-for="Product.CoverTypeId" asp-items="@Model.CoverTypeList" class="form-select">
+                                <option disabled selected>--انتخاب کاور تایپ--</option>
+                            </select>
+                            <span asp-validation-for="Product.CoverTypeId" class="text-danger"></span>
+                        </div>
                     </div>
-                    <div class="col-6 mb-3">
-                        <label asp-for="Product.CoverTypeId"></label>
-                        <select asp-for="Product.CoverTypeId" asp-items="@Model.CoverTypeList" class="form-select">
-                            <option disabled selected>--انتخاب کاور تایپ--</option>
-                        </select>
-                        <span asp-validation-for="Product.CoverTypeId" class="text-danger"></span>
+                    <div class="col-12">
+                        @if (Model.Product.Id != 0)
+                        {
+                            <button type="submit" class="btn btn-primary" style="width:150px">
+                                ویرایش محصول
+                            </button>
+                        }
+                        else
+                        {
+                            <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">
+                                ایجاد محصول
+                            </button>
+                        }
+                        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:170px">
+                            بازگشت به لیست
+                        </a>
                     </div>
-                </div>
-                <div class="col-12">
-                    @if (Model.Product.Id != 0)
-                    {
-                        <button type="submit" class="btn btn-primary" style="width:150px">
-                            ویرایش محصول
-                        </button>
-                    }
-                    else
-                    {
-                        <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">
-                            ایجاد محصول
-                        </button>
-                    }
-                    <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:170px">
-                        بازگشت به لیست
-                    </a>
                 </div>
             </div>
         </div>
-    </div>
-    </br>
+        </br>
 </form>
 
 
@@ -130,18 +140,29 @@
     }
 
 <script>
+    $(document).ready(function() {
+          $('#summernote').summernote({
 
-    function ValidateInput(){
-        if(document.getElementById("uploadBox").value==""){
-            Swal.fire({
-              icon: 'error',
-              title: 'اووهه...',
-              text: 'لطفا تصویری را وارد نمایید!',
-            });
-            return false;
-        }
-        return true;
-    }
+    height:250
+
+
+          });
+      });
+
+
+
+              function ValidateInput(){
+          if(document.getElementById("uploadBox").value==""){
+              Swal.fire({
+                icon: 'error',
+                title: 'اوه اوه',
+                text: 'لطفا تصویری را وارد نماید!',
+              });
+              return false;
+          }
+          return true;
+      }
 </script>
+
 }
 
