@@ -11478,11 +11478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
+      "projectUniqueName": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
       "projectName": "WebMarket.Web",
-      "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
+      "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
       "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\",
+      "outputPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11499,11 +11499,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj"
+            "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj"
             },
-            "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
-              "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj"
+            "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj": {
+              "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj"
             }
           }
         }

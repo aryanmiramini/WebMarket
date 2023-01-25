@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {}
+    "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
+    "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
         "projectName": "Webmarket.DataAccess",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
+        "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\Webmarket.DataAccess.csproj",
         "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
-                "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj"
+              "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
+                "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
+    "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+        "projectUniqueName": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
         "projectName": "Webmarket.Models",
-        "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+        "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
         "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\obj\\",
+        "outputPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPpouKnrlOCWESKUevyNxVvjSW6yW4fqpRpyX0kh4dRhSeCeUNLZsakN4fyf97P8yU4Qzdb0sW993D283BFv2Q==",
+  "dgSpecHash": "C5RA3jjxspfnonEsEm3Cdh+5SYQe3FsVs9qH3gHeY+H1rFrbJzS/E4LdnbTzeDNkQ6QoDHZQ4mhcasMcQPVw4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
+  "projectFilePath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Web\\WebMarket.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miramini\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\miramini\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",

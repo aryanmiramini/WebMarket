@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
       "projectName": "WebMarket.Utility",
-      "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
+      "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Utility\\WebMarket.Utility.csproj",
       "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\WebMarket.Utility\\obj\\",
+      "outputPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\WebMarket.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",

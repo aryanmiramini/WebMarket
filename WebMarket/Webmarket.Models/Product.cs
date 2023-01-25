@@ -75,6 +75,5 @@ namespace WebMarket.Models
         [ValidateNever]
         public CoverType CoverType { get; set; }
 
-        public DateTime CreateDate { get; set; } = DateTime.Now;
     }
 }

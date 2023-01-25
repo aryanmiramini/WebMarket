@@ -6877,11 +6877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+      "projectUniqueName": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
       "projectName": "Webmarket.Models",
-      "projectPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
+      "projectPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\Webmarket.Models.csproj",
       "packagesPath": "C:\\Users\\miramini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miramini\\source\\repos\\WebMarket\\WebMarket\\Webmarket.Models\\obj\\",
+      "outputPath": "C:\\Users\\miramini\\Desktop\\WebMarket\\WebMarket\\Webmarket.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miramini\\AppData\\Roaming\\NuGet\\NuGet.Config",
