@@ -1508,3 +1508,8 @@ C:\Users\miramini\Desktop\WebMarket\WebMarket\Webmarket.DataAccess\obj\Debug\net
 C:\Users\miramini\Desktop\WebMarket\WebMarket\Webmarket.DataAccess\obj\Debug\net6.0\Webmarket.DataAccess.dll
 C:\Users\miramini\Desktop\WebMarket\WebMarket\Webmarket.DataAccess\obj\Debug\net6.0\ref\Webmarket.DataAccess.dll
 C:\Users\miramini\Desktop\WebMarket\WebMarket\Webmarket.DataAccess\obj\Debug\net6.0\Webmarket.DataAccess.pdb
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\Webmarket.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\Webmarket.DataAccess\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\Webmarket.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\Webmarket.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\Webmarket.DataAccess\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll

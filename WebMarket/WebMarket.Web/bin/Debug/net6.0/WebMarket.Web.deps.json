@@ -3283,7 +3283,8 @@
       },
       "WebMarket.Utility/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.UI": "6.0.10"
+          "Microsoft.AspNetCore.Identity.UI": "6.0.10",
+          "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "WebMarket.Utility.dll": {}

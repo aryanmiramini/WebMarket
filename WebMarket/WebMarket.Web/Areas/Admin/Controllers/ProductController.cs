@@ -64,7 +64,6 @@ namespace WebMarket.Web.Controllers
                 }
                 return View(productVM);
             }
-            return View(productVM);
         }
 
         //post

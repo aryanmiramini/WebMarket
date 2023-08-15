@@ -1,5 +1,6 @@
 ﻿#nullable disable       
 
+
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
@@ -73,10 +74,8 @@ namespace WebMarket.Web.Areas.Identity.Pages.Account
             [Display(Name = "تاییدیه رمز عبور")]
             [Compare("Password", ErrorMessage = "رمز عبور و تایید ان باید یکی باشند")]
             public string ConfirmPassword { get; set; }
+
             [Required(ErrorMessage = " نام و نام خانوادگی اجباریست")]
-
-
-
             public string FullName { get; set; }
             public string? Address { get; set; }
             [ValidateNever]

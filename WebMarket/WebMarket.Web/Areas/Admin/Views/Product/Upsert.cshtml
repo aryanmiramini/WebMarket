@@ -73,11 +73,11 @@
                         <input type="file" id="uploadBox" name="file" class="form-control" />
                         @if (Model.Product.Id != 0)
                         {
-                                <div class="col-4">
+                            <div class="col-4">
 
-                                    <img src="~/images/products/@Model.Product.ImageUrl" width="100%" style="border-radius:5px; border:1px; solid #bbb" />
+                                <img src="~/images/products/@Model.Product.ImageUrl" width="100%" style="border-radius:5px; border:1px; solid #bbb" />
 
-                                </div>
+                            </div>
                         }
                     </div>
                     <div></div>
@@ -112,15 +112,15 @@
                     <div class="col-12">
                         @if (Model.Product.Id != 0)
                         {
-                                <button type="submit" class="btn btn-primary" style="width:150px">
-                                    ویرایش محصول
-                                </button>
+                            <button type="submit" class="btn btn-primary" style="width:150px">
+                                ویرایش محصول
+                            </button>
                         }
                         else
                         {
-                                <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">
-                                    ایجاد محصول
-                                </button>
+                            <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">
+                                ایجاد محصول
+                            </button>
                         }
                         <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:170px">
                             بازگشت به لیست
@@ -129,30 +129,31 @@
                 </div>
             </div>
         </div>
-        </br>
+    </div>
+    </br>
 </form>
 
 
 
 @section Scripts{
     @{
-    <partial name="_ValidationScriptsPartial" />
+        <partial name="_ValidationScriptsPartial" />
     }
 
-<script>
+    <script>
 
-              function ValidateInput(){
-          if(document.getElementById("uploadBox").value==""){
-              Swal.fire({
-                icon: 'error',
-                title: 'اوه اوه',
-                text: 'لطفا تصویری را وارد نماید!',
-              });
-              return false;
-          }
-          return true;
-      }
-</script>
+        function ValidateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'اوه اوه',
+                    text: 'لطفا تصویری را وارد نماید!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
 
 }
 

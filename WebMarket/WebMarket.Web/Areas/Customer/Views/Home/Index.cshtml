@@ -9,10 +9,10 @@
     @foreach (var item in Model)
     {
     
-            <div class="col-4 mb-4">
+            <div class="col-md-6 col-lg-3 mb-4">
                 <div class="card">
-                    <img class="card-img-top" style="max-height:600px; min-height:450px;" src="~/images/products/@item.ImageUrl" alt="@item.ImageAlt" title="@item.ImageTitle">
-                    <div class="card-body">
+                    <img class="card-img-top" style="max-height:400px; min-height:300px; min-width:50px; max-width:400px" src="~/images/products/@item.ImageUrl" alt="@item.ImageAlt" title="@item.ImageTitle">
+                    <div class="card-body" style="max-height:400px; min-height:300px; min-width:50px; max-width:400px">
                         <h5 class="card-title text-center">@item.Title</h5>
                         <hr/>
                         <p class="card-text">نام نویسنده: <b>@item.Author</b><br />دسته بندی: <b>@item.Category.Name</b></p>

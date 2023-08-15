@@ -2888,3 +2888,14 @@ C:\Users\miramini\Desktop\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\Web
 C:\Users\miramini\Desktop\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\ref\WebMarket.Web.dll
 C:\Users\miramini\Desktop\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\WebMarket.Web.pdb
 C:\Users\miramini\Desktop\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\WebMarket.Web.genruntimeconfig.cache
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebMarket.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebMarket.Web.props
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebMarket.Web.props
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebMarket.Web.props
+C:\Users\user\Desktop\visualstudio\WebMarket\WebMarket\WebMarket.Web\obj\Debug\net6.0\staticwebassets.pack.json

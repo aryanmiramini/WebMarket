@@ -22,5 +22,8 @@ namespace WebMarket.Models
         public int Count { get; set; }
 
         public double Price { get; set; }
+        public IEnumerable<ShoppingCart> ListCart { get; set; }
+        public double? CartTotal { get; set; }
+
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System.Linq.Expressions;
 using WebMarket.Models;
 using WebMarket.Models.ViewModels;
+using ShoppingCart = WebMarket.Models.ShoppingCart;
 
 namespace WebMarket.DataAccess.Services.Interface
 {
@@ -14,7 +15,6 @@ namespace WebMarket.DataAccess.Services.Interface
         public void Update(ShoppingCart entity);
 
         int IncrementCount(ShoppingCart shoppingCart, int count);
-        int IncrementCountVM(ShoppingCartVM shoppingCartVM, int count);
 
         int DecrementCount(ShoppingCart shoppingCart, int count);
     }
